@@ -7,7 +7,7 @@ This project uses unsupervised machine learning to segment a customer base. By c
 ## Key Features & Insights
 - RFM Calculation: Engineered new features from raw transaction data to measure customer value.
 - K-Means Clustering: Applied the Elbow Method to determine the optimal number of customer segments.
-- Segment Analysis: Identified a "VIP" segment that contributes 40% of revenue despite being only 10% of the population.
+- Segment Analysis: Identified a high-value cluster that contributes 40% of revenue despite being only 10% of the population.
 - Actionable Strategy: Recommended specific re-engagement campaigns for the "Churning" segment.
 
 ## Visual Output Sample
